@@ -1,0 +1,91 @@
+.sidebar{
+    background: #262338;
+    height: 710px; 
+}
+
+.headersidebar{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.sidebarbutton{
+    margin: 30px;
+}
+ 
+
+
+.completedbutton{
+    margin: 10px 10px 10px 600px;
+    
+    border-radius: 20%;
+    background-color: #4700AB;
+    color: white;
+}
+
+.containertodoForm{
+    background: #262338;
+    width: 800px;
+    height: 550px;
+    margin:40px 70px 70px 110px;
+    border-radius: 5%;
+    padding: 52px 30px 30px 30px; 
+}
+
+.headertodoForm{
+    color: white;
+    margin:20px;
+    align-items: center;
+}
+
+.titletodoForm, .texttodoForm {
+    margin: 20px;
+    background-color: #4E4B66;
+    
+}
+
+.lastdivtodoForm{
+    display: flex;
+    flex-direction: row;
+}
+.prioritiestodoForm {
+    margin: 10px;
+    width: 300px;
+    height: 35px;
+}
+
+.insertbuttontodoForm{
+    width: 300px;
+    margin: 10px;
+    background-color: #A996FF;
+}
+
+.titlebuttontodoList{
+    display: flex;
+    flex-direction: row;
+    margin:20px;
+    padding: 20px;
+    justify-content: space-around;
+
+}
+
+.buttonplustodoList{
+    width: 50px;
+    border-style: hidden;
+    background-color: white;
+
+}
+
+.titletodoList{
+    color: black;
+}
+
+.paragraphtodoList{
+    color: black;
+    margin: 10px;
+}
+
+.smallcontainertodoList{
+    background-color: white;
+    border-radius: 5%;
+}
